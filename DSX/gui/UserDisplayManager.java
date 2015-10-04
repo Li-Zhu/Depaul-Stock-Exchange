@@ -7,11 +7,6 @@ package dsx.gui;
 import dsx.client.User;
 import dsx.price.Price;
 
-
-/**
- *
- * @author hieldc
- */
 public class UserDisplayManager {
 
     private User user;
